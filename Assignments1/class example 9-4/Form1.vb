@@ -1,25 +1,14 @@
-﻿Public Class Form1
+﻿'
+''
 
-    Sub AssignString()
-        'initialize the name variable to monday
-        Dim weekday As String
-        weekday = "Monday"
-        Console.WriteLine(weekday)
+Public Class Form1
+    Private Sub RadioButtons_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged, RadioButton2.CheckedChanged, RadioButton3.CheckedChanged
+        Label2.Text = "'Sup"
+        Button1.Enabled = True
     End Sub
 
-    Sub numbers()
-        Dim firstnumber As Integer
-        Dim secondnumber As Integer
-        Dim result As Integer
-        firstnumber = 5
-        secondnumber = 6
-        result = firstnumber + secondnumber
-        Console.WriteLine(result)
-
-    End Sub
-
-    Private Sub Form1_Click(sender As Object, e As EventArgs) Handles Me.Click
-        AssignString()
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
+        Button1.Enabled = False
 
     End Sub
 End Class
