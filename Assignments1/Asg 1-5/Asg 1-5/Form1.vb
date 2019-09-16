@@ -2,7 +2,7 @@
     'Adam Boswell
     'RCET 2056
     'Menu board program
-    '
+    'https://github.com/boswadam/AMB-VS-F19/tree/master/Assignments1/Asg%201-5/Asg%201-5
 
 
     'all subs control "menudisplay" label text except "exit button" controls form
