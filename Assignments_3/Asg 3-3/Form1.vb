@@ -2,7 +2,7 @@
 'RCET 0265
 'Asg 3-3
 'Inventory Program
-'
+'https://github.com/boswadam/AMB-VS-F19/tree/master/Assignments_3/Asg%203-3
 
 Option Strict On
 Option Explicit On
@@ -20,7 +20,7 @@ Public Class Inventory_Calc
     Private Sub CalculateButton_Click(sender As Object, e As EventArgs) Handles CalculateButton.Click
         'subroutine responsible for calculate button
 
-        errorMsg = ""    'sets errorMSG to nothing
+        errorMsg = ""    'sets errorMSG to blank
 
         If BeginningTextBox.Text = "" Then
             errorMsg = "Please fill all input boxes"
