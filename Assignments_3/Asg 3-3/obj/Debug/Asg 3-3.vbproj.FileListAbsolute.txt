@@ -1,0 +1,12 @@
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg 3-3.vbprojAssemblyReference.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg_3_3.Resources.resources
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg 3-3.vbproj.GenerateResource.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg 3-3.vbproj.CoreCompileInputs.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\bin\Debug\Asg 3-3.exe.config
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\bin\Debug\Asg 3-3.exe
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\bin\Debug\Asg 3-3.pdb
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\bin\Debug\Asg 3-3.xml
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg 3-3.exe
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg 3-3.xml
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg 3-3.pdb
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-3\obj\Debug\Asg_3_3.Inventory_Calc.resources
