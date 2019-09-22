@@ -1,0 +1,12 @@
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\bin\Debug\Asg 3-6.exe.config
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\bin\Debug\Asg 3-6.exe
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\bin\Debug\Asg 3-6.pdb
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\bin\Debug\Asg 3-6.xml
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg 3-6.vbprojAssemblyReference.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg_3_6.Resources.resources
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg 3-6.vbproj.GenerateResource.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg 3-6.vbproj.CoreCompileInputs.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg 3-6.exe
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg 3-6.xml
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg 3-6.pdb
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Assignments_3\Asg 3-6\Asg 3-6\obj\Debug\Asg_3_6.shippingCalc.resources
