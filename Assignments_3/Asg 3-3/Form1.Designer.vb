@@ -59,7 +59,7 @@ Partial Class Inventory_Calc
         Me.BeginningTextBox.Location = New System.Drawing.Point(21, 49)
         Me.BeginningTextBox.Name = "BeginningTextBox"
         Me.BeginningTextBox.Size = New System.Drawing.Size(202, 31)
-        Me.BeginningTextBox.TabIndex = 1
+        Me.BeginningTextBox.TabIndex = 0
         Me.ToolTip1.SetToolTip(Me.BeginningTextBox, "Enter your starting inventory data here")
         '
         'EndingTextBox
@@ -108,6 +108,7 @@ Partial Class Inventory_Calc
         Me.AverageTextBox.ReadOnly = True
         Me.AverageTextBox.Size = New System.Drawing.Size(214, 31)
         Me.AverageTextBox.TabIndex = 11
+        Me.AverageTextBox.TabStop = False
         Me.ToolTip1.SetToolTip(Me.AverageTextBox, "Displays average inventory here in US Dollars")
         '
         'Label4
@@ -128,6 +129,7 @@ Partial Class Inventory_Calc
         Me.TurnoverTextBox.ReadOnly = True
         Me.TurnoverTextBox.Size = New System.Drawing.Size(214, 31)
         Me.TurnoverTextBox.TabIndex = 92
+        Me.TurnoverTextBox.TabStop = False
         Me.ToolTip1.SetToolTip(Me.TurnoverTextBox, "Displays the turnover")
         '
         'Label5
