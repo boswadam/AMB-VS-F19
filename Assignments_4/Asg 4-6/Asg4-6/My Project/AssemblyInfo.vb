@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Asg 4-6")>
+<Assembly: AssemblyTitle("Asg4-6")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Toshiba")>
-<Assembly: AssemblyProduct("Asg 4-6")>
-<Assembly: AssemblyCopyright("Copyright © Toshiba 2019")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("Asg4-6")>
+<Assembly: AssemblyCopyright("Copyright ©  2019")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("a831caed-b8ee-4f39-91d2-123ff39b1e52")>
+<Assembly: Guid("dc2fab62-9085-431f-a4af-e21ab1ae7ac9")>
 
 ' Version information for an assembly consists of the following four values:
 '
