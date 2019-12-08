@@ -2,7 +2,7 @@
 'RCET 0265
 'Asg 8-2
 'Dice Tracker
-'
+'https://github.com/boswadam/AMB-VS-F19/tree/master/wk3/Asg8-2
 
 Option Explicit On
 Option Strict On
@@ -56,7 +56,8 @@ Public Class Dice_Tracker
         Next
 
         listBoxViewer.Items.Add("Two dice were rolled " & CStr(rollCountMaskedTextBox.Text) & " times total.")
-        listBoxViewer.Items.Add("The results of each roll were:" & vbNewLine)
+        listBoxViewer.Items.Add("The results of each roll were:")
+        listBoxViewer.Items.Add("*~~~~~~~~~~~~~~~~~~~~~~~~~*")
         listBoxViewer.Items.Add("The number 2 was rolled " & CStr(diceCase(0)) & " times")
         listBoxViewer.Items.Add("The number 3 was rolled " & CStr(diceCase(1)) & " times")
         listBoxViewer.Items.Add("The number 4 was rolled " & CStr(diceCase(2)) & " times")
@@ -68,6 +69,7 @@ Public Class Dice_Tracker
         listBoxViewer.Items.Add("The number 10 was rolled " & CStr(diceCase(8)) & " times")
         listBoxViewer.Items.Add("The number 11 was rolled " & CStr(diceCase(9)) & " times")
         listBoxViewer.Items.Add("The number 12 was rolled " & CStr(diceCase(10)) & " times")
+        listBoxViewer.Items.Add("*~~~~~~~~~~~~~~~~~~~~~~~~~*")
 
 
     End Sub

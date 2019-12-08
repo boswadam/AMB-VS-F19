@@ -43,11 +43,14 @@ Partial Class Dice_Tracker
         '
         'listBoxViewer
         '
+        Me.listBoxViewer.Font = New System.Drawing.Font("Microsoft YaHei", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.listBoxViewer.FormattingEnabled = True
+        Me.listBoxViewer.ItemHeight = 21
         Me.listBoxViewer.Location = New System.Drawing.Point(119, 103)
         Me.listBoxViewer.Name = "listBoxViewer"
-        Me.listBoxViewer.Size = New System.Drawing.Size(472, 290)
-        Me.listBoxViewer.TabIndex = 1
+        Me.listBoxViewer.Size = New System.Drawing.Size(472, 319)
+        Me.listBoxViewer.TabIndex = 44
+        Me.listBoxViewer.TabStop = False
         '
         'rollCountMaskedTextBox
         '
@@ -57,7 +60,7 @@ Partial Class Dice_Tracker
         Me.rollCountMaskedTextBox.Mask = "0000000"
         Me.rollCountMaskedTextBox.Name = "rollCountMaskedTextBox"
         Me.rollCountMaskedTextBox.Size = New System.Drawing.Size(140, 33)
-        Me.rollCountMaskedTextBox.TabIndex = 2
+        Me.rollCountMaskedTextBox.TabIndex = 1
         Me.rollCountMaskedTextBox.Text = "0010000"
         Me.rollCountMaskedTextBox.ValidatingType = GetType(Integer)
         '
@@ -68,17 +71,18 @@ Partial Class Dice_Tracker
         Me.Label1.Location = New System.Drawing.Point(415, 27)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(176, 25)
-        Me.Label1.TabIndex = 3
+        Me.Label1.TabIndex = 101
         Me.Label1.Text = "How many times?"
         '
         'clearButton
         '
         Me.clearButton.AutoEllipsis = True
+        Me.clearButton.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.clearButton.Font = New System.Drawing.Font("Microsoft YaHei", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.clearButton.Location = New System.Drawing.Point(119, 399)
+        Me.clearButton.Location = New System.Drawing.Point(119, 426)
         Me.clearButton.Name = "clearButton"
         Me.clearButton.Size = New System.Drawing.Size(226, 70)
-        Me.clearButton.TabIndex = 4
+        Me.clearButton.TabIndex = 2
         Me.clearButton.Text = "Clear"
         Me.clearButton.UseVisualStyleBackColor = True
         '
@@ -86,18 +90,20 @@ Partial Class Dice_Tracker
         '
         Me.exitButton.AutoEllipsis = True
         Me.exitButton.Font = New System.Drawing.Font("Microsoft YaHei", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.exitButton.Location = New System.Drawing.Point(351, 399)
+        Me.exitButton.Location = New System.Drawing.Point(351, 426)
         Me.exitButton.Name = "exitButton"
         Me.exitButton.Size = New System.Drawing.Size(240, 70)
-        Me.exitButton.TabIndex = 5
+        Me.exitButton.TabIndex = 3
         Me.exitButton.Text = "Exit"
         Me.exitButton.UseVisualStyleBackColor = True
         '
         'Dice_Tracker
         '
+        Me.AcceptButton = Me.rollDiceButton
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 488)
+        Me.CancelButton = Me.clearButton
+        Me.ClientSize = New System.Drawing.Size(717, 508)
         Me.Controls.Add(Me.exitButton)
         Me.Controls.Add(Me.clearButton)
         Me.Controls.Add(Me.Label1)
@@ -105,6 +111,7 @@ Partial Class Dice_Tracker
         Me.Controls.Add(Me.listBoxViewer)
         Me.Controls.Add(Me.rollDiceButton)
         Me.Name = "Dice_Tracker"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Dice Tracker"
         Me.ResumeLayout(False)
         Me.PerformLayout()
