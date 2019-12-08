@@ -1,0 +1,11 @@
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\bin\Debug\Asg8-2.exe.config
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\bin\Debug\Asg8-2.exe
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\bin\Debug\Asg8-2.pdb
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\bin\Debug\Asg8-2.xml
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8-2.vbprojAssemblyReference.cache
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8_2.Dice_Tracker.resources
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8_2.Resources.resources
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8-2.vbproj.GenerateResource.cache
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8-2.exe
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8-2.xml
+C:\Users\larsa\Documents\GitHub\AMB-VS-F19\wk3\Asg8-2\Asg8-2\obj\Debug\Asg8-2.pdb
