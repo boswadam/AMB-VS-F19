@@ -1,0 +1,22 @@
+C:\Users\hookersauce\source\repos\Asg 7-1\bin\Debug\Asg 7-1.exe.config
+C:\Users\hookersauce\source\repos\Asg 7-1\bin\Debug\Asg 7-1.exe
+C:\Users\hookersauce\source\repos\Asg 7-1\bin\Debug\Asg 7-1.pdb
+C:\Users\hookersauce\source\repos\Asg 7-1\bin\Debug\Asg 7-1.xml
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg 7-1.vbprojAssemblyReference.cache
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg_7_1.Stock_Calculator.resources
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg_7_1.Resources.resources
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg 7-1.vbproj.GenerateResource.cache
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg 7-1.exe
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg 7-1.xml
+C:\Users\hookersauce\source\repos\Asg 7-1\obj\Debug\Asg 7-1.pdb
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\bin\Debug\Asg 7-1.exe.config
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\bin\Debug\Asg 7-1.exe
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\bin\Debug\Asg 7-1.pdb
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\bin\Debug\Asg 7-1.xml
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg 7-1.vbprojAssemblyReference.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg_7_1.Stock_Calculator.resources
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg_7_1.Resources.resources
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg 7-1.vbproj.GenerateResource.cache
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg 7-1.exe
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg 7-1.xml
+C:\Users\hookersauce\Documents\GitHub\AMB-VS-F19\Asg 7-1\Asg 7-1\obj\Debug\Asg 7-1.pdb
